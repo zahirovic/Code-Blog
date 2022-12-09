@@ -15,8 +15,6 @@ This tool was created to practice the following skills:
 - Using Markdown to write a README
 - MySQL
 - Express
-- Node 
-- Bcrypt
 - Handlebars.js
 
 #### The work done can be found on the GitHub repository [zahirovic/Code-Blog](https://github.com/zahirovic/Code-Blog) and should look along the lines of this:
@@ -33,8 +31,6 @@ This tool was created to practice the following skills:
 ## Features
 - MySQL
 - Express
-- Node 
-- Bcrypt
 - Handlebars.js
 - Bootstrap
  
