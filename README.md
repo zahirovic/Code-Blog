@@ -24,7 +24,6 @@ This tool was created to practice the following skills:
 ## Credits
 - [npm docs on creating a Package.JSON file](https://docs.npmjs.com/creating-a-package-json-file)
 - [MySQL2](https://www.npmjs.com/package/mysql2#using-connection-pools)
-- [StackOverFlow MySQL incorrect syntax error](https://stackoverflow.com/questions/19730441/incorrect-syntax-near) 
 - [Bootstrap](https://getbootstrap.com/)
 - [Handlebars.js](https://handlebarsjs.com/)
 
