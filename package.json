@@ -1,0 +1,20 @@
+{
+  "name": "code-blog",
+  "version": "1.0.0",
+  "description": "a tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahirovic/Code-Blog.git"
+  },
+  "author": "Melisa Zahirovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahirovic/Code-Blog/issues"
+  },
+  "homepage": "https://github.com/zahirovic/Code-Blog#readme"
+}
