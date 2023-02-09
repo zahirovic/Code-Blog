@@ -42,7 +42,7 @@ router.get('/:id', async (req, res) => {
         const post = postData.get({ plain: true });
 
         if (post.user.id == req.session.user_id) {
-            console.log(`This post belongs to the user logged in!`)
+            console.log(`This post belongs to the registered user`)
 
             const belongsToUser = true;
             res.render('post', {post, belongsToUser});
