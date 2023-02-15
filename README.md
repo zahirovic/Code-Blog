@@ -26,6 +26,7 @@ This tool was created to practice the following skills:
 - [MySQL2](https://www.npmjs.com/package/mysql2#using-connection-pools)
 - [Bootstrap](https://getbootstrap.com/)
 - [Handlebars.js](https://handlebarsjs.com/)
+- [Heroku devcenter on JAWSDB](https://devcenter.heroku.com/articles/jawsdb)
 
 ## Features
 - MySQL
