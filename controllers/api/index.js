@@ -1,6 +1,6 @@
 const router = require("express").Router();
-const logoutRoutes = require('./logoutRoute');
+const logoutRoutes = require('./logoutRoutes');
 
-router.use('/logout', logoutRoute);
+router.use('/logout', logoutRoutes);
 
 module.exports = router;
