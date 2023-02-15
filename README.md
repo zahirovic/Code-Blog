@@ -29,7 +29,7 @@ This tool was created to practice the following skills:
 - [Bootstrap](https://getbootstrap.com/)
 - [Handlebars.js](https://handlebarsjs.com/)
 - [Heroku devcenter on JAWSDB](https://devcenter.heroku.com/articles/jawsdb)
-- [StackOverflow on mysql eroor for sequalize](https://stackoverflow.com/questions/19312907/er-bad-db-error-on-connecting-to-database-using-sequelize)
+- [StackOverFlow on mysql error for sequalize](https://stackoverflow.com/questions/19312907/er-bad-db-error-on-connecting-to-database-using-sequelize)
 
 ## Features
 - MySQL
