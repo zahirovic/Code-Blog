@@ -17,7 +17,9 @@ This tool was created to practice the following skills:
 - Express
 - Handlebars.js
 
-#### The work done can be found on the GitHub repository [zahirovic/Code-Blog](https://github.com/zahirovic/Code-Blog) and should look along the lines of this:
+#### The work done can be found on the GitHub repository [zahirovic/Code-Blog](https://github.com/zahirovic/Code-Blog). The live application can be found on [Heroku](https://code-blog-mz.herokuapp.com/) and should look along the lines of this:
+
+![code blog example](public//assets/images/code-blog-example.png)
 
 
 
@@ -27,6 +29,7 @@ This tool was created to practice the following skills:
 - [Bootstrap](https://getbootstrap.com/)
 - [Handlebars.js](https://handlebarsjs.com/)
 - [Heroku devcenter on JAWSDB](https://devcenter.heroku.com/articles/jawsdb)
+- [StackOverflow on mysql eroor for sequalize](https://stackoverflow.com/questions/19312907/er-bad-db-error-on-connecting-to-database-using-sequelize)
 
 ## Features
 - MySQL
